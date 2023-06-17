@@ -8,51 +8,28 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
-
+#### [Online Management System Of Academic Resources]
+This online platform is designed for academic resource management. Facilitate students to view the journal information frequently submitted by their laboratory, upload their own articles, and invite others to review them. After receiving the modification suggestions, students will modify the article and upload it until there is no room for modification. The platform also supports functions such as uploading templates.
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/academiconline.jpg">
 </center>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
-
+#### [Editing Platform for Requirement Scenarios in Requirement Engineering Teaching]
+In this research,I developed a requirement scene visualization modeling and editing platform for requirement engineering teaching using Unity. This platform supports the design and editing functions of character dialogue and character state transfer and can represent the spatial information and NPC of the scene.
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/images/Requirement1.jpg">
+<img src="/images/Requirement2.jpg">
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
-
+#### [WeChat Mini-program Design for An Outdoor Sports Club ]
+This WeChat mini program is mainly used for school clubs to publish activity information,
+student registration activities, and cancellation activities.
 <center>
-<img src="/images/openiot-system.png">
-</center>
-
-<br>
-
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
-
-<center>
-<img src="/images/iot-manager.png">
+<img src="/images/Wechat.jpg">
 </center>
 <br>
 
 <br>
 
----
-
-# Open-source Projects
-
-<br>
-
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
-
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
-
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
