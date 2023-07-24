@@ -5,8 +5,12 @@ title: Projects
 ---
 
 # Research Projects
-
-
+#### [Novel Intelligent User Interface based on  RL and HCI models (HCIX program)]
+Intelligent user interface is a new focus in HCI. Recent progress in Reinforcement Learning shows that the traditional user interface can become more intelligent and varies according to user interaction. This project, therefore, aims to combine RL and several HCI models to augment the intelligence of the user interface.
+<center>
+<img src="/images/Hcix.jpg">
+</center>
+<br>
 #### [Online Management System Of Academic Resources]
 This online platform is designed for academic resource management. Facilitate students to view the journal information frequently submitted by their laboratory, upload their own articles, and invite others to review them. After receiving the modification suggestions, students will modify the article and upload it until there is no room for modification. The platform also supports functions such as uploading templates.
 <center>
