@@ -6,10 +6,11 @@ title: Awards
 
 ## Scholarships
 
-- Dec 2022： First prize of Postgraduate Scholarship in BIT
-- Dec 2021： Scholarship for Study Excellence in BJUT
-- Dec 2020： Scholarship for Study Excellence in BJUT
-- Dec 2019： Scholarship for Study Excellence in BJUT
+- Dec 2022: First prize of Postgraduate Scholarship in BIT
+- Dec 2021:  Merit Student 
+- Dec 2021: Scholarship for Study Excellence in BJUT
+- Dec 2020: Scholarship for Study Excellence in BJUT
+- Dec 2019: Scholarship for Study Excellence in BJUT
 
 ## Competitions
 
